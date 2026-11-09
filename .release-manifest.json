@@ -1,0 +1,128 @@
+{
+  "target": "mermaid-studio",
+  "repo": "gustawdaniel/mermaid-studio",
+  "files_count": 24,
+  "total_size_bytes": 156051,
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 253,
+      "sha256": "fe718e7babb14f3cbad2d97f08889b9ce5215ed3fe0e43b2b8cfbfb3b9b844e8"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "size": 1794,
+      "sha256": "e5bb671e2c220f3409dd82c30f49255eba3d1596142011e1adc5d23ec083d350"
+    },
+    {
+      "path": "Dockerfile",
+      "size": 381,
+      "sha256": "473acf20e05a73b16d5d0d0838cb9138e3cfbdcdfe759550e51fc0c6c07fa10a"
+    },
+    {
+      "path": "LICENSE",
+      "size": 3077,
+      "sha256": "77e22acd975dbe5dc5c3b48d6bd84d0262971c139463e1f848203e67d8e86b1f"
+    },
+    {
+      "path": "README.md",
+      "size": 3082,
+      "sha256": "2846a9d94ccb90e4ac8016686f7137ebb08480aed2e2f6f9f185a28ce0016469"
+    },
+    {
+      "path": "SECURITY.md",
+      "size": 863,
+      "sha256": "518f69d89ff25f7cdcfbaed937df7ead83ce5970739b443977958d18321e589f"
+    },
+    {
+      "path": "index.html",
+      "size": 630,
+      "sha256": "fda2bcfe1b0bde28331012e66b88a348bb243e711aaa049aba29a80619ae3f85"
+    },
+    {
+      "path": "nginx.conf",
+      "size": 339,
+      "sha256": "992bdd4d8ceb568778bb7ea5a15bc64ede1574228d0738a34c8f6b179a3418c8"
+    },
+    {
+      "path": "package.json",
+      "size": 767,
+      "sha256": "0d147f9a6768933a80dedcd853655722146821939da571d12e3cdfbebd921451"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "size": 52564,
+      "sha256": "451aaa43be253d7115cd67ddd90cac5a895d35353169534d558cc60180e933d9"
+    },
+    {
+      "path": "svelte.config.js",
+      "size": 85,
+      "sha256": "044cf9cbd9198678af45787b34ee7c93fe9dd42b20fde1352ac87bbd07dc32b2"
+    },
+    {
+      "path": "tsconfig.app.json",
+      "size": 671,
+      "sha256": "a01cf7ee6ca3d384f3248ae2198e5ecb87d6a62c4164f288c395da36b7acb588"
+    },
+    {
+      "path": "tsconfig.json",
+      "size": 119,
+      "sha256": "770b4140bbb581e2dfd9ea9946ffc9c75a1d86ba7d2db5f77c83e37cbdf9d808"
+    },
+    {
+      "path": "tsconfig.node.json",
+      "size": 558,
+      "sha256": "d366cc0827139db39c61815f22491bbfda56c654354a42ad7795143d314e45e8"
+    },
+    {
+      "path": "vite.config.ts",
+      "size": 175,
+      "sha256": "ef6cc9baeb54580fe49c29bdc72708f73fd8d9f166536592f31f247ba60b111f"
+    },
+    {
+      "path": "public/favicon.svg",
+      "size": 9522,
+      "sha256": "61bc9a161de58248288e6905425d7180f0624c2865007b97d763fdac12043a66"
+    },
+    {
+      "path": "public/icons.svg",
+      "size": 5031,
+      "sha256": "b45fa506195cfcdef406ba9f0c77b36ddc1a7c224040926ec70abc2fdea7b93a"
+    },
+    {
+      "path": "src/App.svelte",
+      "size": 49504,
+      "sha256": "518ca2f5ad587d2a81397c36ec443ffa120def570910a9533507ac7b182eb991"
+    },
+    {
+      "path": "src/app.css",
+      "size": 2550,
+      "sha256": "7e24d17d73c3f9dc5356a07408f7e60f6231c6d4651bd85a33b5d1fa72e5773a"
+    },
+    {
+      "path": "src/main.ts",
+      "size": 173,
+      "sha256": "b331ac03781178d50a9f39c513dbafa4cabebf94a111a9d9b2ac24f6afe7769b"
+    },
+    {
+      "path": "src/lib/Counter.svelte",
+      "size": 197,
+      "sha256": "92add5416e628029cc5eb7e3c5dc473d0c4bb48a8e11d242aa570543dbc910fb"
+    },
+    {
+      "path": "src/assets/hero.png",
+      "size": 13057,
+      "sha256": "881ffbcaafc212e49addad08846a5b82761355fa20624253af3477ba33262c5c"
+    },
+    {
+      "path": "src/assets/svelte.svg",
+      "size": 1950,
+      "sha256": "a39f39b75032527099aa1ede54ff2a507065e32e7329a1460a35a3a4d6ea88fe"
+    },
+    {
+      "path": "src/assets/vite.svg",
+      "size": 8709,
+      "sha256": "5be21acd42eb7b896e517f4e0f0f11eb5c5d9e54fbbcebe9453f033008fcca6f"
+    }
+  ]
+}
